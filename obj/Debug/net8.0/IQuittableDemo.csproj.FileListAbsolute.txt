@@ -1,0 +1,14 @@
+C:\Users\romom\source\repos\IQuittableDemo\bin\Debug\net8.0\IQuittableDemo.exe
+C:\Users\romom\source\repos\IQuittableDemo\bin\Debug\net8.0\IQuittableDemo.deps.json
+C:\Users\romom\source\repos\IQuittableDemo\bin\Debug\net8.0\IQuittableDemo.runtimeconfig.json
+C:\Users\romom\source\repos\IQuittableDemo\bin\Debug\net8.0\IQuittableDemo.dll
+C:\Users\romom\source\repos\IQuittableDemo\bin\Debug\net8.0\IQuittableDemo.pdb
+C:\Users\romom\source\repos\IQuittableDemo\obj\Debug\net8.0\IQuittableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romom\source\repos\IQuittableDemo\obj\Debug\net8.0\IQuittableDemo.AssemblyInfoInputs.cache
+C:\Users\romom\source\repos\IQuittableDemo\obj\Debug\net8.0\IQuittableDemo.AssemblyInfo.cs
+C:\Users\romom\source\repos\IQuittableDemo\obj\Debug\net8.0\IQuittableDemo.csproj.CoreCompileInputs.cache
+C:\Users\romom\source\repos\IQuittableDemo\obj\Debug\net8.0\IQuittableDemo.dll
+C:\Users\romom\source\repos\IQuittableDemo\obj\Debug\net8.0\refint\IQuittableDemo.dll
+C:\Users\romom\source\repos\IQuittableDemo\obj\Debug\net8.0\IQuittableDemo.pdb
+C:\Users\romom\source\repos\IQuittableDemo\obj\Debug\net8.0\IQuittableDemo.genruntimeconfig.cache
+C:\Users\romom\source\repos\IQuittableDemo\obj\Debug\net8.0\ref\IQuittableDemo.dll

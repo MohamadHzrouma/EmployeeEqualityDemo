@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\romom\\source\\repos\\IQuittableDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97914586-DE94-4C0F-83AF-6FE68379BED2}|IQuittableDemo.csproj|c:\\users\\romom\\source\\repos\\iquittabledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97914586-DE94-4C0F-83AF-6FE68379BED2}|IQuittableDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97914586-DE94-4C0F-83AF-6FE68379BED2}|IQuittableDemo.csproj|c:\\users\\romom\\source\\repos\\iquittabledemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97914586-DE94-4C0F-83AF-6FE68379BED2}|IQuittableDemo.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97914586-DE94-4C0F-83AF-6FE68379BED2}|IQuittableDemo.csproj|c:\\users\\romom\\source\\repos\\iquittabledemo\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97914586-DE94-4C0F-83AF-6FE68379BED2}|IQuittableDemo.csproj|solutionrelative:iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\romom\\source\\repos\\IQuittableDemo\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\romom\\source\\repos\\IQuittableDemo\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T20:11:55.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IQuittable.cs",
+              "DocumentMoniker": "C:\\Users\\romom\\source\\repos\\IQuittableDemo\\IQuittable.cs",
+              "RelativeDocumentMoniker": "IQuittable.cs",
+              "ToolTip": "C:\\Users\\romom\\source\\repos\\IQuittableDemo\\IQuittable.cs",
+              "RelativeToolTip": "IQuittable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T20:08:27.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\romom\\source\\repos\\IQuittableDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\romom\\source\\repos\\IQuittableDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAywCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T20:06:35.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
